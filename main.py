@@ -80,4 +80,4 @@ async def on_message(message):
         sqlite_connection.commit()
 
 
-bot.run("OTY3MjY5OTYxMDQxMDgwMzgw.GYRT8k.yDq9szzE9MpsCZ2OgK_OGDCqLzdinXaPJL1LqA")
+bot.run("TOKEN")
