@@ -11,3 +11,4 @@ This bot records the number of messages sent by the user and adds it to the data
 
 ![image](https://user-images.githubusercontent.com/67878832/193467458-7c47e975-1474-4207-a87e-b332189a0ef1.png)
 
+Bot wrote in 5 hours.
